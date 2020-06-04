@@ -60,7 +60,7 @@ end
 
 
 E = 0;
-% Encontrando la energía del estado base del átomo de hidrógeno (en unidades atómicas)
+% Encontrando la energía del estado base del átomo de helio (en unidades atómicas)
 % Esta debe ser igual a -2.85516 a.u (verificado)
 for p=1:N
   for q=1:N
